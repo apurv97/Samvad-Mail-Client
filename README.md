@@ -1,6 +1,6 @@
 # Samvad-Mail-Client
-Our Team Consists of
-
+Done as part of a course project for cs213 Data Structures and Algorithms
+Our Team Consists of: <br>
 160010001 Gaurav Ganna <br>
 160010005 Apurv Varshney <br>
 160010011 Ashish Ekka

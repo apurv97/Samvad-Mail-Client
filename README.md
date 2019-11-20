@@ -1,5 +1,5 @@
 # Samvad-Mail-Client
-Done as part of a course project for cs213 Data Structures and Algorithms<br>
+Done as part of a course project for CS-213: Data Structures and Algorithms<br>
 Our Team Consists of: <br>
 160010001 Gaurav Ganna <br>
 160010005 Apurv Varshney <br>

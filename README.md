@@ -13,5 +13,5 @@ or
 username: vasu <br>
 pass:vasu
 
-samvad.cpp is the main program. <br>
-samvad-beta.cpp is with addtional features but may be unstable.
+[This](/samvad.cpp) is the main program. <br>
+[This](/samvad-beta.cpp) is a program with addtional features but may be unstable.
